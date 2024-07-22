@@ -1,0 +1,26 @@
+.main
+{
+    text-align: center;
+    color: #8a491a;
+    font-style: inherit;
+    font-size: larger;
+}
+
+.head
+{
+    color: bisque;
+    background-color: rgb(63, 78, 78);
+}
+.Teammembers
+{
+    color: rgb(32, 40, 37);
+    font-style: italic;
+    background-color: bisque;
+}
+
+
+
+.clear
+{
+    clear:left;
+}
